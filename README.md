@@ -14,6 +14,6 @@ Herramienta CLI desarrollada en Bash para enumerar y consultar máquinas de Hack
 ## Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/htb-machine-enumerator.git
+git clone https://github.com/hlmm7/htb-machine-enumerator.git
 cd htb-machine-enumerator
 chmod +x src/htb.sh
